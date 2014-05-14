@@ -1,1 +1,15 @@
 node_modules
+
+*~
+*#
+.DS_STORE
+.idea
+*.orig
+*.ejs.BACKUP.*.ejs
+*.ejs.BASE.*.ejs
+*.ejs.LOCAL.*.ejs
+*.ejs.REMOTE.*.ejs
+*.js.BACKUP.*.js
+*.js.BASE.*.js
+*.js.LOCAL.*.js
+*.js.REMOTE.*.js
